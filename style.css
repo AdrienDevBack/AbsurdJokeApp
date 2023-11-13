@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body {
+    background-color: #FFEFD6;
+    text-align: center;
+}
+
+.title-app-jaa {
+ padding-top: 160px;
+ font-family: 'Oswald', sans-serif;
+ font-size: 2em;
+}
+
+.description-app-jaa {
+  margin: 50px;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 2em;
+}
+
+.button-joke {
+    margin: 50px;
+    padding: 20px;
+    border-radius: 100px;
+    border: 1px solid black;
+    font-size: 1.5em;
+}
+
+.button-joke:hover {
+  background-color: #30A46C;
+  color: white;
+}
+
+.button-joke:active {
+    scale: 0.9;
+}
+
